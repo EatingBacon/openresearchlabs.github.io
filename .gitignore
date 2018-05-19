@@ -1,0 +1,7 @@
+publications/styles
+.sass-cache/
+_site/
+sandbox/
+tmp/
+tmp
+*~
