@@ -1,5 +1,4 @@
-# Push _site (subtree) to gh-pages
-
+# Push _site (subtree) to master
 git pull origin devel
 rm -rf _site
 # jekyll serve # Watch the site
