@@ -1,24 +1,38 @@
 ---
-title: "Lahti Lab - Home"
+title: "Open Research Labs - Home"
 layout: homelay
-excerpt: "Lahti Lab at University of Turku."
+excerpt: "Open Research Labs, University of Turku, Finland."
 sitemap: false
 permalink: /
 ---
 
-**Modern statistical data analysis from theory to application**
+**Modern data analysis from theory to practice**
 
-- Theory: machine learning/AI, computational science, modern statistical data analysis  
-- Methods: data science, probabilistic programming, open research software, open science
-- Applications: human microbiome, functional genomics, statistical ecology, population cohort studies, computational history, computational social science
+We carry out research on theory, methods and applications of modern
+statistical and algorithmic data analysis, blending elements from
+various fields including statistical machine learning/AI,
+probabilistic programming, numerical ecology, and data science among
+others.
 
+Our focus is on data-rich applications ranging from molecular life
+sciences to computational history. The [research team](https://openresearchlabs.github.io/team/) is led
+by PI Leo Lahti who coordinates the [Computational
+biosciences](https://www.utu.fi/en/university/faculty-of-science-and-engineering/mathematics-and-statistics) group in University of Turku, Finland. We are also founding members and part of [Helsinki Computational History
+Group](http://www.helsinki.fi/computational-history).
 
+There is a great demand for targeted algorithmic methods to extract
+information and insights from data with minimal human intervention to
+guide modeling and experimentation. By combining information across
+multiple, complementary sources it is possible to overcome some of the
+limitations and statistical uncertainties associated with individual
+data sets. Open research practices play an important role in our
+all work.
 
 
 <!--<li>**PhD position open** for calls until May 26, 2017 in Computational (bio)science in KU Leuven, Belgium / University of Turku, Finland ([English](https://rekry.saima.fi/certiahome/open_job_view.html?id=00003662&did=5600&lang=en&jc=14&nav_from_open_jobs_view_new=true) / [Finnish](https://rekry.saima.fi/certiahome/open_job_view.html?id=00003662&did=5600&lang=fi&jc=14&nav_from_open_jobs_view_new=true))-->
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" style="width: 450px">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" style="width: 300px">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>

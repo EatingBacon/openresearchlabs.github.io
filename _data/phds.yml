@@ -9,37 +9,37 @@
 #  education4:  
 
 - name: Ville Laitinen
-  photo: Ville_Laitinen.jpg
+  photo: ville_laitinen.jpg
   info: PhD student
   email: ville.laitinen@utu.fi
 
 - name: Aaro Salosensaari
-  photo: Aaro_salosensaari.jpg
-  info: PhD student (co-supervised with Teemu Niiranen)
+  photo: aaro_salosensaari.jpg
+  info: PhD student (with Doc Teemu Niiranen). <a href="https://aqsalose.kapsi.fi">Research homepage</a>.
   email: aaro.salosensaari@utu.fi
 
 - name: Joonatan Palmu
-  photo: Joonatan_Palmu.jpg
-  info: PhD student (University of Turku; co-supervised with Doc Teemu Niiranen)
+  photo: joonatan_palmu.jpeg
+  info: PhD student (with Doc Teemu Niiranen)
   email: joonatan.palmu@utu.fi
 
-- name: Ville Vaara
-  photo: Ville_Vaara.jpg
-  info: PhD student (University of Helsinki; co-supervised with Prof Mikko Tolonen)
-  email: ville.vaara@helsinki.fi
+- name: Anna Aatsinki
+  photo: Anna_Aatsinki.jpg
+  info: PhD student (with Doc Linnea Karlsson)
+  email: anna.aatsinki@utu.fi
 
 - name: Anna Sorjamaa 
-  photo: Anna_Sorjamaa.jpg
-  info: PhD student (University of Oulu; co-supervised with Doc Justus Reunanen)
+  photo: bio-photo.jpg
+  info: PhD student (Oulu; with Doc Justus Reunanen)
   email: anna.sorjamaa@oulu.fi
 
 - name: Sudarshan Shetty
-  photo: Sudarshan_Shetty.jpg
-  info: PhD student (Wageningen University; co-supervised with Prof Willem de Vos)
+  photo: sudarshan_shetty.jpeg
+  info: PhD student (Wageningen; with Prof Willem de Vos)
   email: sudarshan.shetty@wur.nl
 
-- name: "This could be you !"
-  photo: bio-photo.jpg
-  info: See <a href="http://www.iki.fi/Leo.Lahti/vacancies.md">openings</a> for more info
-  email: leo.lahti@iki.fi
-  number_educ: 0
+- name: Ville Vaara
+  photo: ville_vaara.jpg
+  info: PhD student (Helsinki; with Prof Mikko Tolonen)
+  email: ville.vaara@helsinki.fi
+
